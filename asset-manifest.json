@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/exzennist.github.io/movie_app_2021.github.io/static/css/main.b93a8ddb.chunk.css",
+    "main.js": "/exzennist.github.io/movie_app_2021.github.io/static/js/main.125f89a1.chunk.js",
+    "main.js.map": "/exzennist.github.io/movie_app_2021.github.io/static/js/main.125f89a1.chunk.js.map",
+    "runtime-main.js": "/exzennist.github.io/movie_app_2021.github.io/static/js/runtime-main.5ab6375f.js",
+    "runtime-main.js.map": "/exzennist.github.io/movie_app_2021.github.io/static/js/runtime-main.5ab6375f.js.map",
+    "static/js/2.95e6a4cb.chunk.js": "/exzennist.github.io/movie_app_2021.github.io/static/js/2.95e6a4cb.chunk.js",
+    "static/js/2.95e6a4cb.chunk.js.map": "/exzennist.github.io/movie_app_2021.github.io/static/js/2.95e6a4cb.chunk.js.map",
+    "index.html": "/exzennist.github.io/movie_app_2021.github.io/index.html",
+    "static/css/main.b93a8ddb.chunk.css.map": "/exzennist.github.io/movie_app_2021.github.io/static/css/main.b93a8ddb.chunk.css.map",
+    "static/js/2.95e6a4cb.chunk.js.LICENSE.txt": "/exzennist.github.io/movie_app_2021.github.io/static/js/2.95e6a4cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ab6375f.js",
+    "static/js/2.95e6a4cb.chunk.js",
+    "static/css/main.b93a8ddb.chunk.css",
+    "static/js/main.125f89a1.chunk.js"
+  ]
+}
